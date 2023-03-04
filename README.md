@@ -11,5 +11,5 @@ Essa será uma aplicação para gerenciar tarefas (em inglês *todos*). S
 
 Tudo isso para cada usuário em específico (o `username` será passado pelo header). A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
 
-# Instruçõesç
+# Instruções
 https://efficient-sloth-d85.notion.site/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8
